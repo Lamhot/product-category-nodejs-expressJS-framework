@@ -27,8 +27,8 @@ router.post('/', function (req, res, next) {
         else {
             category.products.push({
                 name: req.body.name,
-                unitPrice: req.body.price,
-                itemsInStock: req.body.stock
+                price: req.body.price,
+                stock: req.body.stock
             });
             category.save(function (err, data) {
                 if (err) {
