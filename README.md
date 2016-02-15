@@ -23,7 +23,7 @@ Configuration for database C:\>d:\mongo_db\bin\mongod.exe --dbpath d:\mongo_db\d
 C:\Users\User>node ./node_modules/mocha/bin/_mocha
 
 // Main model Category & Product
-databaase mongodb: Lamhot-Kurio:27000 	192.168.56.1:27000
+databaase mongodb: Lamhot-Kurio:27000 	192.168.56.1:27000 (Google cloud)
 Author:Lamhot JM Siagian
 
 
