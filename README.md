@@ -1,6 +1,4 @@
-# proCat
-This repository containing source code test for backend developer at sale stock Indonesia (http://www.salestockindonesia.com/).
-
+# product category
 This repository built using node.js+express.js and using mongodb(moogosee)
 
 <b>Run the the following commands to install Node modules express and mongoose</b>
