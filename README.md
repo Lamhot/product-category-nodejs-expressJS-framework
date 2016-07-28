@@ -9,15 +9,15 @@ Run the the following commands to install Node modules express and mongoose
 ## Running 
 * Run the MongoDB server (Run mongod.exe)
 * Node app.js
-* Browse the app from http://localhost:3000/
+* Open http://localhost:3000/
 * Configuration for database C:\>d:\mongo_db\bin\mongod.exe --dbpath d:\mongo_db\data
-* or run this project using npm install
+* run using npm install
 
 ## Testing
 C:\Users\User>node ./node_modules/mocha/bin/_mocha
 
 ## Main model Category & Product
-databaase mongodb: Lamhot-Kurio:27000 
+database mongodb: Lamhot-Kurio:27000 
 192.168.56.1:27000 (Google cloud)
 Author:Lamhot JM Siagian
 
